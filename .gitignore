@@ -8,4 +8,4 @@ __pycache__/
 
 #Envs
 venv_ai_agent
-
+.env
